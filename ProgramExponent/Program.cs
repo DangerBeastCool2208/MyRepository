@@ -8,13 +8,15 @@ namespace ProgramExponent
         static void Main(string[] args)
         {
             //Прогон для получения числа Эйлера
-            Console.WriteLine(Library.Exponent.Exp);
-            for (long i = 1; i < 10000000; i *=10)
-            {
+            Console.WriteLine();
+            decimal i = 900000000;
+            Console.WriteLine(Environment.ProcessorCount + "\n");
                 Console.WriteLine($"Степень прогона: {i}");
-                Console.WriteLine($"Число эйлера: {Library.Exponent.Number(i)}\n");
+                Console.WriteLine($"Число эйлера: {Exponent.NumberParallel(i)}\n");
                 
-            }
+            
         }
+
+
     }
 }
