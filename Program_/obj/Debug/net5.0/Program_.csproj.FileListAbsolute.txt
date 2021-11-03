@@ -1,0 +1,16 @@
+D:\GitReposy\MyRepository\Program_\bin\Debug\net5.0\Program_.exe
+D:\GitReposy\MyRepository\Program_\bin\Debug\net5.0\Program_.deps.json
+D:\GitReposy\MyRepository\Program_\bin\Debug\net5.0\Program_.runtimeconfig.json
+D:\GitReposy\MyRepository\Program_\bin\Debug\net5.0\Program_.runtimeconfig.dev.json
+D:\GitReposy\MyRepository\Program_\bin\Debug\net5.0\Program_.dll
+D:\GitReposy\MyRepository\Program_\bin\Debug\net5.0\ref\Program_.dll
+D:\GitReposy\MyRepository\Program_\bin\Debug\net5.0\Program_.pdb
+D:\GitReposy\MyRepository\Program_\obj\Debug\net5.0\Program_.csproj.AssemblyReference.cache
+D:\GitReposy\MyRepository\Program_\obj\Debug\net5.0\Program_.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitReposy\MyRepository\Program_\obj\Debug\net5.0\Program_.AssemblyInfoInputs.cache
+D:\GitReposy\MyRepository\Program_\obj\Debug\net5.0\Program_.AssemblyInfo.cs
+D:\GitReposy\MyRepository\Program_\obj\Debug\net5.0\Program_.csproj.CoreCompileInputs.cache
+D:\GitReposy\MyRepository\Program_\obj\Debug\net5.0\Program_.dll
+D:\GitReposy\MyRepository\Program_\obj\Debug\net5.0\ref\Program_.dll
+D:\GitReposy\MyRepository\Program_\obj\Debug\net5.0\Program_.pdb
+D:\GitReposy\MyRepository\Program_\obj\Debug\net5.0\Program_.genruntimeconfig.cache
