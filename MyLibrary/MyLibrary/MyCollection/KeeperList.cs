@@ -43,7 +43,26 @@ namespace MyLibrary.MyCollection
         }
 
        
-
+        public T LastGet()
+        {
+            MemorySlot<T> current = head;
+            MemorySlot<T> isk = tail;
+            if (head == null) return default(T);
+            if (count == 1)
+            {
+                Clear();
+                return current.slot;
+            }
+            
+            while ((current.Next != null) && !current.Next.slot.Equals(tail.slot))
+            {
+                current = current.Next;
+            }
+            tail = current;
+            tail.Next = null;
+            count--;
+            return isk.slot;
+        }
         public bool Remove(T date)
         {
             MemorySlot<T> current = head;
@@ -84,6 +103,7 @@ namespace MyLibrary.MyCollection
         {
             MemorySlot<T> current = head;
             head = head.Next;
+            count--;
             return current.slot;
         }
         //IEnumerator<T> IEnumerable<T>.GetEnumerator()
@@ -109,6 +129,10 @@ namespace MyLibrary.MyCollection
 
     public class MemorySlot<T>
     {
+        public override string ToString()
+        {
+            return slot.ToString();
+        }
         public MemorySlot(T data)
         {
             slot = data;

@@ -30,6 +30,30 @@ namespace MyLibrary
             {
                 Console.WriteLine(item);
             }
+            Console.WriteLine("-------------------------------------------");
+            Console.WriteLine(list.LastGet() +"\n");
+            foreach (var item in (KeeperList<string>)list)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("-------------------------------------------");
+            Console.WriteLine(list.LastGet() + "\n");
+            foreach (var item in (KeeperList<string>)list)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("-------------------------------------------");
+            Console.WriteLine(list.LastGet() + "\n");
+            foreach (var item in (KeeperList<string>)list)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("-------------------------------------------");
+            Console.WriteLine(list.LastGet() + "\n");
+            foreach (var item in (KeeperList<string>)list)
+            {
+                Console.WriteLine(item);
+            }
             Console.Read();
         }
     }
