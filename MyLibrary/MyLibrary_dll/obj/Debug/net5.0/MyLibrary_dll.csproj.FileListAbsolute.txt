@@ -1,0 +1,12 @@
+D:\GitReposy\MyRepository\MyLibrary\MyLibrary_dll\bin\Debug\net5.0\MyLibrary_dll.deps.json
+D:\GitReposy\MyRepository\MyLibrary\MyLibrary_dll\bin\Debug\net5.0\MyLibrary_dll.dll
+D:\GitReposy\MyRepository\MyLibrary\MyLibrary_dll\bin\Debug\net5.0\ref\MyLibrary_dll.dll
+D:\GitReposy\MyRepository\MyLibrary\MyLibrary_dll\bin\Debug\net5.0\MyLibrary_dll.pdb
+D:\GitReposy\MyRepository\MyLibrary\MyLibrary_dll\obj\Debug\net5.0\MyLibrary_dll.csproj.AssemblyReference.cache
+D:\GitReposy\MyRepository\MyLibrary\MyLibrary_dll\obj\Debug\net5.0\MyLibrary_dll.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitReposy\MyRepository\MyLibrary\MyLibrary_dll\obj\Debug\net5.0\MyLibrary_dll.AssemblyInfoInputs.cache
+D:\GitReposy\MyRepository\MyLibrary\MyLibrary_dll\obj\Debug\net5.0\MyLibrary_dll.AssemblyInfo.cs
+D:\GitReposy\MyRepository\MyLibrary\MyLibrary_dll\obj\Debug\net5.0\MyLibrary_dll.csproj.CoreCompileInputs.cache
+D:\GitReposy\MyRepository\MyLibrary\MyLibrary_dll\obj\Debug\net5.0\MyLibrary_dll.dll
+D:\GitReposy\MyRepository\MyLibrary\MyLibrary_dll\obj\Debug\net5.0\ref\MyLibrary_dll.dll
+D:\GitReposy\MyRepository\MyLibrary\MyLibrary_dll\obj\Debug\net5.0\MyLibrary_dll.pdb
